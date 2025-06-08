@@ -17,6 +17,7 @@ UI Design: Features a centered layout with a white background and professional p
 Error Handling: Displays error messages for invalid inputs, preventing progression until corrected.
 
 3. Usage Instructions
+   
 3.1 Form Page
 Enter your details (name, email, tech stack, etc.) in the "Candidate Details" section.
 Ensure all fields are valid (e.g., proper email, digits for phone/experience).
@@ -32,11 +33,13 @@ Review your submitted details and answers.
 Responses are saved for hiring team evaluation.
 
 4. File Structure
+
 app.py: Main Streamlit application script.
 requirements.txt: List of Python dependencies.
 README.md: Project documentation.
 
 5. Dependencies
+
 5.1 Python Packages
 streamlit: For the web application framework.
 requests: For API calls to Ollama.
