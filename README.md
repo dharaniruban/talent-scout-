@@ -23,7 +23,7 @@
      Ensure all fields are valid (e.g., proper email, digits for phone/experience).
      Click "Start Interview" to proceed.
 
-  3.2 Questions Page:
+   3.2 Questions Page:
       Answer each of the 10 generated technical questions.
       Use "Previous" and "Next" buttons to navigate.
       Click "Submit" on the final question to finish.
